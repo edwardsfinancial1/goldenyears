@@ -1,0 +1,17 @@
+streamlit>=1.22.0
+pandas>=1.5.3
+numpy>=1.24.3
+plotly>=5.14.1
+matplotlib>=3.7.1
+seaborn>=0.12.2
+openpyxl>=3.1.2
+reportlab>=3.6.12
+fpdf2>=2.7.4
+pillow>=9.5.0
+openai>=0.27.8
+streamlit-extras>=0.2.7
+streamlit-option-menu>=0.3.2
+streamlit-card>=0.0.4
+watchdog>=3.0.0
+pytest>=7.3.1
+

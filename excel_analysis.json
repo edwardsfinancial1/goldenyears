@@ -1,0 +1,284 @@
+{
+  "BASE": {
+    "columns": [
+      "Unnamed: 0",
+      "Unnamed: 1",
+      NaN,
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ],
+    "shape": [
+      13,
+      5
+    ],
+    "sample_data": [
+      {
+        "Unnamed: 0": "RETIREMENT INCOME PLAN - Income For Life!",
+        "Unnamed: 1": NaN,
+        "NaN": NaN,
+        "Unnamed: 3": NaN,
+        "Unnamed: 4": NaN
+      },
+      {
+        "Unnamed: 0": NaN,
+        "Unnamed: 1": "INFLATION ADJUSTED",
+        "NaN": NaN,
+        "Unnamed: 3": "PERSONAL PENSION (FIA)",
+        "Unnamed: 4": "TOTAL"
+      },
+      {
+        "Unnamed: 0": 38700,
+        "Unnamed: 1": 0,
+        "NaN": 12000.0,
+        "Unnamed: 3": 37000,
+        "Unnamed: 4": 87700
+      },
+      {
+        "Unnamed: 0": 40054.5,
+        "Unnamed: 1": 0,
+        "NaN": 12000.0,
+        "Unnamed: 3": 37000,
+        "Unnamed: 4": 89054.5
+      },
+      {
+        "Unnamed: 0": 41456.407499999994,
+        "Unnamed: 1": 0,
+        "NaN": 12000.0,
+        "Unnamed: 3": 37000,
+        "Unnamed: 4": 90456.4075
+      }
+    ]
+  },
+  "INFLATION ADJUSTED": {
+    "columns": [
+      "Unnamed: 0",
+      "Unnamed: 1",
+      NaN,
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ],
+    "shape": [
+      22,
+      5
+    ],
+    "sample_data": [
+      {
+        "Unnamed: 0": "RETIREMENT INCOME PLAN - Income For Life!",
+        "Unnamed: 1": NaN,
+        "NaN": NaN,
+        "Unnamed: 3": NaN,
+        "Unnamed: 4": NaN
+      },
+      {
+        "Unnamed: 0": NaN,
+        "Unnamed: 1": "INFLATION ADJUSTED (4% assumed)",
+        "NaN": " ",
+        "Unnamed: 3": "PERSONAL PENSION (FIA)",
+        "Unnamed: 4": "TOTAL"
+      },
+      {
+        "Unnamed: 0": 38700,
+        "Unnamed: 1": 12012,
+        "NaN": 12000,
+        "Unnamed: 3": 37000,
+        "Unnamed: 4": 99712
+      },
+      {
+        "Unnamed: 0": 40054.5,
+        "Unnamed: 1": 12492.48,
+        "NaN": 12000,
+        "Unnamed: 3": 37000,
+        "Unnamed: 4": 101546.98
+      },
+      {
+        "Unnamed: 0": 41456.407499999994,
+        "Unnamed: 1": 12992.1792,
+        "NaN": 12000,
+        "Unnamed: 3": 37000,
+        "Unnamed: 4": 103448.58669999999
+      }
+    ]
+  },
+  "SOLUTION 1": {
+    "columns": [
+      "RETIREMENT INCOME PLAN - Income For Life!",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ],
+    "shape": [
+      19,
+      5
+    ],
+    "sample_data": [
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": "HIS SOCIAL SECURITY",
+        "Unnamed: 1": "HER SOCIAL SECURITY",
+        "Unnamed: 2": "PENSION",
+        "Unnamed: 3": "GROWTH BUCKET",
+        "Unnamed: 4": "TOTAL"
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 33792,
+        "Unnamed: 2": 13133,
+        "Unnamed: 3": 7350,
+        "Unnamed: 4": 54275
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 33792,
+        "Unnamed: 2": 13133,
+        "Unnamed: 3": 7350,
+        "Unnamed: 4": 54275
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 33792,
+        "Unnamed: 2": 13133,
+        "Unnamed: 3": 7350,
+        "Unnamed: 4": 54275
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 33792,
+        "Unnamed: 2": 13133,
+        "Unnamed: 3": 7350,
+        "Unnamed: 4": 54275
+      }
+    ]
+  },
+  "MARKET RETURN INCOME": {
+    "columns": [
+      NaN,
+      "Unnamed: 1"
+    ],
+    "shape": [
+      12,
+      2
+    ],
+    "sample_data": [
+      {
+        "NaN": "Income Plan Strategy vs. 4% Rule Calculator",
+        "Unnamed: 1": NaN
+      },
+      {
+        "NaN": "Initial Principal (P0)",
+        "Unnamed: 1": 406977.0
+      },
+      {
+        "NaN": "Roll-Up Rate (r)",
+        "Unnamed: 1": 0.065
+      },
+      {
+        "NaN": "Deferral Period (d) in Years",
+        "Unnamed: 1": 3.0
+      },
+      {
+        "NaN": "Payout Rate (p)",
+        "Unnamed: 1": 0.072
+      }
+    ]
+  },
+  "SOLUTION": {
+    "columns": [
+      "RETIREMENT INCOME PLAN - Income For Life!",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ],
+    "shape": [
+      19,
+      5
+    ],
+    "sample_data": [
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": "HIS SOCIAL SECURITY",
+        "Unnamed: 1": "HER SOCIAL SECURITY",
+        "Unnamed: 2": "PENSION",
+        "Unnamed: 3": "PERSONAL FIA PENSION",
+        "Unnamed: 4": "TOTAL"
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      }
+    ]
+  },
+  "SOLUTION SPOUSE DIES": {
+    "columns": [
+      "RETIREMENT INCOME PLAN - Income For Life!",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4"
+    ],
+    "shape": [
+      19,
+      5
+    ],
+    "sample_data": [
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": "HIS SOCIAL SECURITY",
+        "Unnamed: 1": "HER SOCIAL SECURITY",
+        "Unnamed: 2": "PENSION",
+        "Unnamed: 3": "PERSONAL FIA PENSION",
+        "Unnamed: 4": "TOTAL"
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      },
+      {
+        "RETIREMENT INCOME PLAN - Income For Life!": 0,
+        "Unnamed: 1": 0,
+        "Unnamed: 2": 0,
+        "Unnamed: 3": 0,
+        "Unnamed: 4": 0
+      }
+    ]
+  }
+}
